@@ -57,7 +57,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                        
                                                                             |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  título  | Crie 5 temas para podcast que falem sobre a transformação digital nos bancos e os desafios na comercialização dos produtos bancários                                                        |
+|  título  | Crie 5 temas para podcast que falem sobre a transformação digital nos bancos e os desafios na comercialização dos produtos bancários                                                       
 | conteúdo | Você é um roteirista de podcast e vamos criar um roteiro de um podcast de finanças, focado em inovação cujo o nome é 'O Cliente no Centro: Como a Transformação Digital Redefine a Jornada do Consumidor Bancário' e discorre sobre os desafios do setor bancário com o surgimento de novas tecnologias, com o público alvo de clientes
 
 o formato do roteiro deve ser:
