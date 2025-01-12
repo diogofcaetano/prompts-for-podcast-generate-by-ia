@@ -57,7 +57,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 5 temas para podcast que falem sobre a transformação digital nos bancos e os desafios na comercialização dos produtos bancários                                                        |
-| conteúdo | Você é um roteirista de podcast e vamos criar um roteiro de um podcast de finanças, focado em inovação cujo o nome é 'O Cliente no Centro: Como a Transformação Digital Redefine a Jornada do Consumidor Bancário' e discorre sobre os desafios do setor bancário com o surgimento de novas tecnologias, com o público alvo de clientes.
+| conteúdo | Você é um roteirista de podcast e vamos criar um roteiro de um podcast de finanças, focado em inovação cujo o nome é 'O Cliente no Centro: Como a Transformação Digital Redefine a Jornada do Consumidor Bancário' e discorre sobre os desafios do setor bancário com o surgimento de novas tecnologias, com o público alvo de clientes
 
 o formato do roteiro deve ser:
 [INTRODUÇÃO]
@@ -66,17 +66,17 @@ o formato do roteiro deve ser:
 [FINALIZAÇÃO]
 
 {REGRAS}
-no bloco [INTRODUÇÃO] substitua por uma introdução iguais as dos vídeos do canal 'primo pobre'.
-no bloco [EXEMPLO 1] substitua por um exemplo de Integração de inteligência artificial e automação nos processos de vendas.
-no bloco [EXEMPLO 2] substitua por um exemplo de Estratégias para conquistar e engajar clientes digitais.
-no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Diogo e esse foi o BankCast dessa semana'.
+no bloco [INTRODUÇÃO] substitua por uma introdução iguais as dos vídeos do canal 'primo pobre'
+no bloco [EXEMPLO 1] substitua por um exemplo de Integração de inteligência artificial e automação nos processos de vendas
+no bloco [EXEMPLO 2] substitua por um exemplo de Estratégias para conquistar e engajar clientes digitais
+no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Diogo e esse foi o BankCast dessa semana'
 
-use termos de fácil explicação.
-o podcast deve ser curto.
+use termos de fácil explicação
+o podcast deve ser curto
 
 {REGRAS NEGATIVAS}
-não use muitos termos técnicos.
-não ultrapasse 4 minutos de duração. |
+não use muitos termos técnicos
+não ultrapasse 4 minutos de duração |
 
 ## 📚 Materiais
 
