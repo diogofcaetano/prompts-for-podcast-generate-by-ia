@@ -1,21 +1,11 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/podcast%20sobre%20inova%C3%A7%C3%A3o%20no%20setor%20de%20banking.png"
     width="300"
 />
 </p>
 
-<p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
+
 </p>
 
 <p align="center">
